@@ -2,4 +2,4 @@
 Exercise items
 
 
-HTML/CSS/JavaScript练习小项目
+HTML/CSS/JavaScript练习项目
