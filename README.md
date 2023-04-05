@@ -2,6 +2,4 @@
 Exercise items
 
 
-Html Css JS 练习项目
-
-
+HTML/CSS/JavaScript练习小项目
