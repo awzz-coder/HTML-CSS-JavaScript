@@ -1,4 +1,4 @@
-# html-css-js
+# HTML/CSS/JavaScript
 Exercise items
 
 
